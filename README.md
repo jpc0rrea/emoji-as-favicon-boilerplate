@@ -1,6 +1,6 @@
-<h1 align="center">Boilerplate project with Next.js, Chakra UI, ESLint, commitlint and husky</h1>
+<h1 align="center">Boilerplate project to bootstrap the emoji as favicon project</h1>
 
-<p align="center">This project is intended to help developers to bootstrap projects using <a href="https://chakra-ui.com">Chakra UI</a> and <a href="https://nextjs.org/">Next.js</a>, in addition to <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://eslint.org/">ESlint</a>, <a href="https://commitlint.js.org/#/">commitlint</a> and <a href="https://typicode.github.io/husky/#/">husky</a>
+<p align="center">This project is intended to bootstrap the emoji as favicon project</p>
 
 # 🚀 Run the project on your local machine
 
