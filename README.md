@@ -6,10 +6,10 @@
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/jpc0rrea/boilerplate-nextjs-chakraui
+$ git clone https://github.com/jpc0rrea/emoji-as-favicon-boilerplate
 
 # Access the project folder in the terminal
-$ cd boilerplate-nextjs-chakraui
+$ cd emoji-as-favicon-boilerplate
 
 # Install dependecies
 $ npm install
