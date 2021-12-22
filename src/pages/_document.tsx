@@ -8,7 +8,6 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          {/* 👇🏽 importação da fonte */}
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
             rel="preconnect"
